@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jaswanth Reddy
+- 👋 Hi, I’m Jaswanth Reddy
 - 👀 I’m interested in Developing softwares, data science and cloud services
 - 🌱 I’m currently learning data science and data visualization
 - 📫 You can reach me at "Gmail: jaswanthreddye24@gmail.com", "Insta: 6feet_guy_"
